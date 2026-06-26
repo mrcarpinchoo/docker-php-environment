@@ -2,10 +2,6 @@
 
 > **Note**: This guide is based on the [Docker Docs - PHP language-specific guide](https://docs.docker.com/guides/php/).
 
-## Prerequisites
-
-- Docker with Docker Compose.
-
 ## Setup
 
 ### Configuring the Environment
