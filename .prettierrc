@@ -15,10 +15,21 @@
   "singleQuote": false,
   "tabWidth": 4,
   "trailingComma": "none",
-  "overrides": [
-    {
-      "files": ["*.js","*.jsx", "*.ts", "*.tsx", "*.json", ".prettierrc"],
-      "options": { "tabWidth": 2 }
-    }
-  ]
+  "overrides":
+    [
+      {
+        "files":
+          [
+            "*.js",
+            "*.jsx",
+            "*.ts",
+            "*.tsx",
+            "*.json",
+            ".prettierrc",
+            "*.yml",
+            "*.yaml"
+          ],
+        "options": { "tabWidth": 2 }
+      }
+    ]
 }
