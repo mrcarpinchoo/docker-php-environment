@@ -1,6 +1,6 @@
 # syntax=docker/dockerfile:1
 
-ARG PHP_VERSION=8.2
+ARG PHP_VERSION=8.5
 
 # Stage: prod-deps - use the official Composer image (LTS) just to install PHP dependencies
 FROM composer:lts as prod-deps
