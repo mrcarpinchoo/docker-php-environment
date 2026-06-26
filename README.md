@@ -1,6 +1,6 @@
 # docker-php-environment
 
-> **Note**: The official documentation is available at [Docker Docs - PHP language-specific guide](https://docs.docker.com/guides/php/).
+> **Note**: This guide is based on the [Docker Docs - PHP language-specific guide](https://docs.docker.com/guides/php/).
 
 ## Prerequisites
 
